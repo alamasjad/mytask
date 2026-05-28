@@ -1,0 +1,7 @@
+I deliberately created three different bugs: a TypeError, ValueError, and IndexError. Before sharing the issues with AI, I removed sensitive details like file paths, usernames, and unrelated project code. I shared only the relevant code snippet and traceback.
+
+For the TypeError, AI explained that fewer arguments were passed than required. For the ValueError, AI explained that a non-numeric value could not be converted into an integer. For the IndexError, AI explained that I was trying to access a list index that did not exist(few rows in csv).
+
+After getting the fixes from AI, I tested each corrected program manually and verified that all errors were resolved successfully.
+
+Through this activity, I learned how to debug effectively with AI, how to sanitize code before sharing, and why verifying AI-generated fixes is important.
